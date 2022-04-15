@@ -1,0 +1,2 @@
+﻿sudo echo "REGTOKEN" > /Library/Application\ Support/JAMF/Waiting\ Room/com.sentinelone.registration-token
+sudo /usr/sbin/installer -pkg /Library/Application\ Support/JAMF/Waiting\ Room/SentinelAgent_macos_v21_12_2_6003.pkg -target /
