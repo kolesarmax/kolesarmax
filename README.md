@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kolesarmax
-- 👀 I’m interested in cloud and/or security automation & containerized applications. Please consider my posted scripts for demonstrations of my real work scripts so far!
+- 👀 I’m interested in cloud and/or security automation & containerized applications. Please consider my posted scripts for demonstrations of my real-life code solves so far!
 - 🌱 I’m currently learning bash & security concepts
 - 💞️ I’m looking to collaborate on any of my mentioned interests
 - 📫 How to reach me - https://www.linkedin.com/in/max-kolesar-245552b2/
