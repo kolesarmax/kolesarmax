@@ -1,0 +1,14 @@
+[Unit]
+Description=COMPANYNAME Startup Service
+After=network.target
+StartLimitIntervalSec=0
+
+[Service]
+Type=simple
+Restart=always
+RestartSec=1
+ExecStartPre=/bin/bash /opt/COMPANYNAMEresources/UBU2004configscript1.sh
+ExecStart=/bin/bash /opt/COMPANYNAMEresources/UBU2004configscript2.sh
+
+[Install]
+WantedBy=default.target
